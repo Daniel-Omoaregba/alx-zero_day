@@ -1,0 +1,1 @@
+This project contains the basic knowledge of git and github
